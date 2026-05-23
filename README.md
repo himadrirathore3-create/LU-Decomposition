@@ -29,8 +29,9 @@ InputMatrix=np.array(eval(input()),dtype='float')
 piv,Lmatrix,Umatrix=lu(InputMatrix)
 print(Lmatrix)
 print(Umatrix)
-(ii) To find the LU Decomposition of a matrix
 ```
+(ii) To find the LU Decomposition of a matrix
+
 ```
 /*
 Program to find the LU Decomposition of a matrix.
