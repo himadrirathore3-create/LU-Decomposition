@@ -20,7 +20,7 @@ To write a program to find the LU Decomposition of a matrix.
 Program to find the L and U matrix.
 Developed by: HIMADRI S
 RegisterNumber: 212225040128*/
-```
+
 import os
 os.environ["OPENBLAS_NUM_THREADS"]="1"
 import numpy as np
